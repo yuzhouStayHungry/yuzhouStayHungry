@@ -70,40 +70,14 @@
 <br/>  
 
 
-## Connect with me  
-
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yuzhouStayHungry" />
-</div>
-
-<a href="https://github.com/yuzhouStayHungry" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-
-<div align="center">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=yuzhouStayHungry" />
-</div>
-  
-
-<br/>  
-
-
 ## Github Stats  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&background=03060401&multiline=true&height=60&lines=%E5%A4%A9%E9%AB%98%E5%9C%B0%E8%BF%A5%EF%BC%8C%E8%A7%89%E5%AE%87%E5%AE%99%E4%B9%8B%E6%97%A0%E7%A9%B7)](https://git.io/typing-svg)
 
-[![Yuzhou1su's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhouStayHungry)](https://github.com/yuzhouStayHungry/github-readme-stats)
-
-
 ![Yuzhou1su's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouStayHungry&layout=compact&hide_border=true&langs_count=10)
   
 
-<br/>  
-
-
 <br />
-
-
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=yuzhouStayHungry&theme=xcode" />
