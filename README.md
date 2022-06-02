@@ -3,23 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Yuzhou1su, a full-time full-stack freelance developer 👨‍💻, graduated from GDUT with a master degree in Computer Science. 🚀</div>  
+### <div align="center">I'm Yuzhou1su, a full-time backend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working at ZURU  
-  
-
+- 🔭 I’m currently working at Shenzhen  
 - 🌱 I’m currently learning Go、Cloud native And VUE  
-  
-
 - 🎮 I like outdoor gaming like climbing，also like watching the LOL game  
-  
-
 - 📘 I enjoy reading history, economics and philosophy etc.  
+- ❓ Ask me about backend developent.
   
 
 <br/>  
 
+[!yuzhouStayHungry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhouStayHungry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
