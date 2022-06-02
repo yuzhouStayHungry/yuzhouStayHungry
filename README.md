@@ -79,6 +79,10 @@
 <a href="https://github.com/yuzhouStayHungry" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+
+<div align="center">
+	<img  src="https://visitor-badge.glitch.me/badge?page_id=yuzhouStayHungry" />
+</div>
   
 
 <br/>  
@@ -100,11 +104,6 @@
 <br />
 
 
-
-
-<div align="center">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=yuzhouStayHungry" />
-</div>
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=yuzhouStayHungry&theme=xcode" />
