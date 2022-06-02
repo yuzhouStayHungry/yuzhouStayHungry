@@ -4,7 +4,8 @@
   
 
 ### <div align="center">I'm Yuzhou1su, a full-time backend developer 👨‍💻</div>  
-  
+
+![](https://komarev.com/ghpvc/?username=yuzhouStayHungry&color=lightgrey)
 
 - 🔭 I’m currently working at Shenzhen  
 - 🌱 I’m currently learning Go、Cloud native And VUE  
@@ -15,7 +16,7 @@
 
 <br/>  
 
-![yuzhouStayHungry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhouStayHungry&show_icons=true)
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -67,6 +68,8 @@
 
 
 ## Github Stats  
+
+![yuzhouStayHungry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhouStayHungry&show_icons=true)
 
 ![Yuzhou1su's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouStayHungry&layout=compact&hide_border=true&langs_count=10)
   
