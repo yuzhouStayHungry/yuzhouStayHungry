@@ -85,5 +85,5 @@
 
 ![掘金数据](https://stats.justsong.cn/api/juejin?id=3526889034751639)
 
-![visitors](https://komarev.com/ghpvc/?username=yuzhouStayHungry&color=lightgrey)
+![访客数据](https://komarev.com/ghpvc/?username=yuzhouStayHungry&color=lightgrey)
 
