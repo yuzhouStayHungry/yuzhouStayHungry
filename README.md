@@ -72,8 +72,6 @@
 
 ## Github Stats  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&background=03060401&multiline=true&height=60&lines=%E5%A4%A9%E9%AB%98%E5%9C%B0%E8%BF%A5%EF%BC%8C%E8%A7%89%E5%AE%87%E5%AE%99%E4%B9%8B%E6%97%A0%E7%A9%B7)](https://git.io/typing-svg)
-
 ![Yuzhou1su's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouStayHungry&layout=compact&hide_border=true&langs_count=10)
   
 
@@ -84,5 +82,7 @@
 </div>
 
 ## Juejin Stats
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&background=03060401&multiline=true&height=60&lines=%E5%A4%A9%E9%AB%98%E5%9C%B0%E8%BF%A5%EF%BC%8C%E8%A7%89%E5%AE%87%E5%AE%99%E4%B9%8B%E6%97%A0%E7%A9%B7)](https://git.io/typing-svg)
 
 ![掘金数据](https://stats.justsong.cn/api/juejin?id=3526889034751639)
