@@ -5,7 +5,6 @@
 
 ### <div align="center">I'm Yuzhou1su, a full-time backend developer 👨‍💻</div>  
 
-![](https://komarev.com/ghpvc/?username=yuzhouStayHungry&color=lightgrey)
 
 - 🔭 I’m currently working at Shenzhen  
 - 🌱 I’m currently learning Go、Cloud native And VUE  
@@ -66,6 +65,9 @@
 
 <br/>  
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuzhouStayHungry)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github Stats  
 
@@ -85,3 +87,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&background=03060401&multiline=true&height=60&lines=%E5%A4%A9%E9%AB%98%E5%9C%B0%E8%BF%A5%EF%BC%8C%E8%A7%89%E5%AE%87%E5%AE%99%E4%B9%8B%E6%97%A0%E7%A9%B7)](https://git.io/typing-svg)
 
 ![掘金数据](https://stats.justsong.cn/api/juejin?id=3526889034751639)
+
+![](https://komarev.com/ghpvc/?username=yuzhouStayHungry&color=lightgrey)
+
+![Profile views](https://visitcount.itsvg.in/api?id=yuzhouStayHungry&label=Profile%20Views&color=12&icon=5&pretty=true)
