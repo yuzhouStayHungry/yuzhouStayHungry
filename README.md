@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Go、Cloud native And VUE  
 - 🎮 I like outdoor gaming like climbing，also like watching the LOL game  
 - 📘 I enjoy reading history, economics and philosophy etc.  
-- ❓ Ask me about backend developent.
+- ❓ Ask me about backend development.
   
 
 <br/>  
@@ -85,5 +85,5 @@
 
 ![掘金数据](https://stats.justsong.cn/api/juejin?id=3526889034751639)
 
-![Profile views](https://komarev.com/ghpvc/?username=yuzhouStayHungry&color=lightgrey)
+![visitors](https://komarev.com/ghpvc/?username=yuzhouStayHungry&color=lightgrey)
 
