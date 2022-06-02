@@ -3,7 +3,6 @@
 </div>  
   
 
-### Hi there 👋  
 ### <div align="center">I'm Yuzhou1su, a full-time full-stack freelance developer 👨‍💻, graduated from GDUT with a master degree in Computer Science. 🚀</div>  
   
 
@@ -72,6 +71,11 @@
 
 
 ## Connect with me  
+
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yuzhouStayHungry" />
+</div>
+
 <a href="https://github.com/yuzhouStayHungry" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
@@ -81,33 +85,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouStayHungry&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yuzhouStayHungry&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-![Yuzhou1su.png](https://github.com/yuzhouStayHungry/yuzhouStayHungry/blob/main/Yuzhou1su.png?raw=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&background=03060401&multiline=true&height=60&lines=%E5%A4%A9%E9%AB%98%E5%9C%B0%E8%BF%A5%EF%BC%8C%E8%A7%89%E5%AE%87%E5%AE%99%E4%B9%8B%E6%97%A0%E7%A9%B7)](https://git.io/typing-svg)
 
@@ -115,6 +92,15 @@
 
 
 ![Yuzhou1su's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouStayHungry&layout=compact&hide_border=true&langs_count=10)
+  
+
+<br/>  
+
+
+<br />
+
+
+
 
 <div align="center">
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=yuzhouStayHungry" />
@@ -124,6 +110,4 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=yuzhouStayHungry&theme=xcode" />
 </div>
 
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yuzhouStayHungry" />
-</div>
+
