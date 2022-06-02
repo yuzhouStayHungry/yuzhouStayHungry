@@ -83,4 +83,6 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=yuzhouStayHungry&theme=xcode" />
 </div>
 
+## Juejin Stats
 
+https://stats.justsong.cn/api/juejin?id=3526889034751639&theme=dark
