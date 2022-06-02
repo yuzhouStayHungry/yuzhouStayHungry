@@ -68,6 +68,8 @@
 
 ## 📊 Github Stats  
 
+[![Page Views Count](https://badges.toozhao.com/badges/01G4HM2BFDMXAYKF2BHATNE46W/green.svg)](https://github.com/yuzhouStayHungry/yuzhouStayHungry/blob/main/README.md)
+
 ![yuzhouStayHungry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhouStayHungry&show_icons=true)
 
 ![Yuzhou1su's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouStayHungry&layout=compact&hide_border=true&langs_count=10)
