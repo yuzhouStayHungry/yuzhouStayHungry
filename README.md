@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header]([./[Yuzhou1su.png]](https://github.com/yuzhouStayHungry/yuzhouStayHungry/blob/main/Yuzhou1su.png?raw=true))
+![Yuzhou1su.png](https://github.com/yuzhouStayHungry/yuzhouStayHungry/blob/main/Yuzhou1su.png?raw=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&background=03060401&multiline=true&height=60&lines=%E5%A4%A9%E9%AB%98%E5%9C%B0%E8%BF%A5%EF%BC%8C%E8%A7%89%E5%AE%87%E5%AE%99%E4%B9%8B%E6%97%A0%E7%A9%B7)](https://git.io/typing-svg)
 
